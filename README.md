@@ -1,4 +1,4 @@
-I'm a software engineer and. I am currently looking for a full time role with the flexibility of freelance.
+I'm a software engineer. I am currently looking for a full time role with the flexibility of freelance.
 
 
 Check out my Experimental Portfolio Website (Pictured Below) at www.regisgrumberg.com. If you have any questions of comments, feel free to shoot me an email at pro.grb.studio@gmail.com .
