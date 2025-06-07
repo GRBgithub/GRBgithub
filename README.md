@@ -1,5 +1,5 @@
 
-# 👋 Hello, 
+# 👋 Hello
 ---
 
 I'm a freelance creative web developper & Designer focusing in motion and interraction. 
