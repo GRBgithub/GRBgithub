@@ -3,7 +3,7 @@
 ---
 
 I'm a freelance creative web developper & Designer focusing in motion and interraction. 
-- I am currently looking for flexible missions.
+I am currently looking for flexible missions.
 
 🧩 [Bento.me](https://bento.me/regisgrb) – All my links, and my ressources
 
