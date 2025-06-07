@@ -14,8 +14,9 @@ I am currently looking for flexible missions.
 ---
 
 Projects showcases 
-⚡ **Behance** – [Behance](https://www.behance.net/regisgrumberg)  
 
+- ⚡ **Behance** – [Behance](https://www.behance.net/regisgrumberg)  
+- 🍳 **regisgrumberg** – [2020 archive portfolio  ](https://www.regisgrumberg.com/)  
 ---
 
 ## 🚧 Work in Progress
@@ -27,7 +28,6 @@ Some projects I'm currently working on:
 ## 🌐 Live Websites
 
 - ⚡ **Nextfast** – [Next.js Boilerplate](https://nextfast.dev)  
-- 🍳 **regisgrumberg** – [2020 archive portfolio  ](https://www.regisgrumberg.com/)  
 - 🔮 **Astralura** – [Astralura | Your Daily Horoscope](https://astralura.com)
 
 ---
